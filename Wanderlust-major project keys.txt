@@ -1,0 +1,11 @@
+Wanderlust-major project keys
+(mongo atlas username and password for the user)
+
+chantiborugadda5
+tqhFXod46ahT14Zq
+
+mongodb+srv://atlas-sample-dataset-load-67e1791012c67c54b2fa24f3:<db_password>@cluster0.zuvtg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+mongodb+srv://chantiborugadda5:tqhFXod46ahT14Zqi@cluster0.zuvtg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
